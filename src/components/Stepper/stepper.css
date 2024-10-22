@@ -36,12 +36,12 @@ body {
 
 .step-item.active .step {
   background-color: #f4f4f5;
-  border: 2px solid #4CAF50;
-  color: #4CAF50;
+  border: 2px solid #1154e4;
+  color: #1154e4;
 }
 
 .step-item.complete .step {
-  background-color: #4CAF50;
+  background-color: #1154e4;
   color: white;
 }
 
@@ -65,7 +65,7 @@ input[type="text"].select {
 
 input[type="text"]:focus,
 select:focus {
-  border-color: #4CAF50;
+  border-color: #1154e4;
   outline: none;
 }
 
@@ -80,13 +80,13 @@ button.btn {
 }
 
 button.btn-primary {
-  background-color: #4CAF50;
+  background-color: #1154e4;
   color: white;
   transition: background-color 0.3s ease;
 }
 
 button.btn-primary:hover {
-  background-color: #45a049;
+  background-color: #0000FF;
 }
 
 button.btn-secondary {
@@ -99,7 +99,7 @@ button.btn-secondary:hover {
 }
 
 button.btn-success {
-  background-color: #28a745;
+  background-color: #1154e4;
   color: white;
 }
 
@@ -109,7 +109,7 @@ button.btn-success {
 }
 
 .text-green-600 {
-  color: #4CAF50;
+  color: #1154e4;
 }
 
 .mt-2 {
